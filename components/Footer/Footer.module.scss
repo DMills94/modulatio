@@ -1,0 +1,14 @@
+@import "styles/variables";
+
+.footer {
+  background-color: $darkGrey;
+  color: $copyDarkGrey;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 4rem;
+}
+
+.subtitle {
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+}
