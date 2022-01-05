@@ -4,7 +4,6 @@
   background-color: $grey;
   color: $copyLightGrey;
   min-height: 100vh;
-  max-width: 1440px;
   padding-top: 80px;
 }
 
@@ -12,4 +11,6 @@
   background-color: $grey;
   padding: 0 2rem;
   padding: 64px 44px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
